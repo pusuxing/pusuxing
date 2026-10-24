@@ -1,0 +1,3427 @@
+{
+  "Noto": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f600.png",
+        "text": "微笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f602.png",
+        "text": "笑哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f60a.png",
+        "text": "害羞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f60d.png",
+        "text": "花痴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f60f.png",
+        "text": "酷"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f614.png",
+        "text": "难过"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f618.png",
+        "text": "飞吻"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f61e.png",
+        "text": "失望"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f620.png",
+        "text": "生气"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f622.png",
+        "text": "哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f62d.png",
+        "text": "大哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f631.png",
+        "text": "尖叫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f914.png",
+        "text": "思考"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f923.png",
+        "text": "笑到打滚"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f928.png",
+        "text": "扶额"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f92d.png",
+        "text": "捂脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f973.png",
+        "text": "派对脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f974.png",
+        "text": "头晕"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f644.png",
+        "text": "翻白眼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f648.png",
+        "text": "不看"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f60b.png",
+        "text": "美味"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f60e.png",
+        "text": "墨镜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f609.png",
+        "text": "眨眼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f60c.png",
+        "text": "安心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f61d.png",
+        "text": "吐舌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f621.png",
+        "text": "红脸生气"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f624.png",
+        "text": "出气"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f625.png",
+        "text": "冷汗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f629.png",
+        "text": "疲惫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f62b.png",
+        "text": "累"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f62e.png",
+        "text": "惊讶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f630.png",
+        "text": "紧张"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f632.png",
+        "text": "震惊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f634.png",
+        "text": "睡觉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f637.png",
+        "text": "口罩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f642.png",
+        "text": "呵呵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f643.png",
+        "text": "倒脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f910.png",
+        "text": "闭嘴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f911.png",
+        "text": "发财"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f925.png",
+        "text": "说谎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f44d.png",
+        "text": "点赞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f44e.png",
+        "text": "踩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f44c.png",
+        "text": "OK"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f44f.png",
+        "text": "鼓掌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f4aa.png",
+        "text": "肌肉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f91d.png",
+        "text": "握手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f91e.png",
+        "text": "交叉手指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u270b.png",
+        "text": "举手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u270c.png",
+        "text": "胜利"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f44b.png",
+        "text": "挥手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f64f.png",
+        "text": "合十"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f44a.png",
+        "text": "拳头"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u270a.png",
+        "text": "加油"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f91f.png",
+        "text": "爱你"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f918.png",
+        "text": "摇滚"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f919.png",
+        "text": "打电话"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f446.png",
+        "text": "上指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f447.png",
+        "text": "下指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f448.png",
+        "text": "左指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f449.png",
+        "text": "右指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f440.png",
+        "text": "眼睛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f442.png",
+        "text": "耳朵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f443.png",
+        "text": "鼻子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f444.png",
+        "text": "嘴巴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f464.png",
+        "text": "人像"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2764.png",
+        "text": "红心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f9e1.png",
+        "text": "橙心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f499.png",
+        "text": "蓝心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f49c.png",
+        "text": "紫心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f49a.png",
+        "text": "绿心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f5a4.png",
+        "text": "黑心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f494.png",
+        "text": "心碎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f493.png",
+        "text": "跳动的心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f498.png",
+        "text": "爱心发射"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f4af.png",
+        "text": "100分"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2757.png",
+        "text": "感叹号"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2753.png",
+        "text": "问号"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u274c.png",
+        "text": "叉号"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2705.png",
+        "text": "对勾"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f525.png",
+        "text": "火"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2b50.png",
+        "text": "星星"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f31f.png",
+        "text": "流星"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f389.png",
+        "text": "礼花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f388.png",
+        "text": "气球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f381.png",
+        "text": "礼物"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2615.png",
+        "text": "咖啡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f375.png",
+        "text": "茶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f37a.png",
+        "text": "啤酒"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f37b.png",
+        "text": "干杯"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f355.png",
+        "text": "披萨"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f354.png",
+        "text": "汉堡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f363.png",
+        "text": "寿司"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f35c.png",
+        "text": "拉面"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f366.png",
+        "text": "冰淇淋"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f370.png",
+        "text": "蛋糕"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f36b.png",
+        "text": "巧克力"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f34e.png",
+        "text": "苹果"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f347.png",
+        "text": "葡萄"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f353.png",
+        "text": "草莓"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f349.png",
+        "text": "西瓜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f436.png",
+        "text": "狗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f431.png",
+        "text": "猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f42d.png",
+        "text": "老鼠"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f430.png",
+        "text": "兔子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f98a.png",
+        "text": "狐狸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f43b.png",
+        "text": "熊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f428.png",
+        "text": "考拉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f42f.png",
+        "text": "老虎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f981.png",
+        "text": "狮子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f42e.png",
+        "text": "牛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f437.png",
+        "text": "猪"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f438.png",
+        "text": "青蛙"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f435.png",
+        "text": "猴子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f414.png",
+        "text": "鸡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f427.png",
+        "text": "企鹅"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2600.png",
+        "text": "太阳"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f319.png",
+        "text": "月亮"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u26c5.png",
+        "text": "多云"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f308.png",
+        "text": "彩虹"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2614.png",
+        "text": "雨伞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2744.png",
+        "text": "雪花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f30a.png",
+        "text": "波浪"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f339.png",
+        "text": "玫瑰"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f33b.png",
+        "text": "向日葵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f332.png",
+        "text": "树"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f4b0.png",
+        "text": "钱袋"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f4b3.png",
+        "text": "信用卡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f4bb.png",
+        "text": "电脑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f4f1.png",
+        "text": "手机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f3ae.png",
+        "text": "游戏手柄"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f4da.png",
+        "text": "书"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f3b5.png",
+        "text": "音乐"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f3a7.png",
+        "text": "耳机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f4f7.png",
+        "text": "相机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f3ac.png",
+        "text": "电影"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u26bd.png",
+        "text": "足球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f3c0.png",
+        "text": "篮球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f3ce.png",
+        "text": "赛车"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u2708.png",
+        "text": "飞机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f680.png",
+        "text": "火箭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f466.png",
+        "text": "男孩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f467.png",
+        "text": "女孩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f468.png",
+        "text": "男人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f469.png",
+        "text": "女人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f476.png",
+        "text": "婴儿"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f474.png",
+        "text": "老人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f475.png",
+        "text": "老妇"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f47c.png",
+        "text": "天使"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f47b.png",
+        "text": "鬼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f385.png",
+        "text": "圣诞老人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f483.png",
+        "text": "跳舞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f57a.png",
+        "text": "舞者"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f46b.png",
+        "text": "情侣"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f46a.png",
+        "text": "家庭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f3c6.png",
+        "text": "奖杯"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f3c5.png",
+        "text": "奖牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f947.png",
+        "text": "金牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f948.png",
+        "text": "银牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f949.png",
+        "text": "铜牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/noto/emoji_u1f451.png",
+        "text": "皇冠"
+      }
+    ]
+  },
+  "Twemoji": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f600.png",
+        "text": "微笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f602.png",
+        "text": "笑哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f60a.png",
+        "text": "害羞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f60d.png",
+        "text": "花痴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f60f.png",
+        "text": "酷"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f614.png",
+        "text": "难过"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f618.png",
+        "text": "飞吻"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f61e.png",
+        "text": "失望"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f620.png",
+        "text": "生气"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f622.png",
+        "text": "哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f62d.png",
+        "text": "大哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f631.png",
+        "text": "尖叫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f914.png",
+        "text": "思考"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f923.png",
+        "text": "笑到打滚"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f928.png",
+        "text": "扶额"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f92d.png",
+        "text": "捂脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f973.png",
+        "text": "派对脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f974.png",
+        "text": "头晕"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f644.png",
+        "text": "翻白眼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f648.png",
+        "text": "不看"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f60b.png",
+        "text": "美味"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f60e.png",
+        "text": "墨镜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f609.png",
+        "text": "眨眼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f60c.png",
+        "text": "安心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f61d.png",
+        "text": "吐舌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f621.png",
+        "text": "红脸生气"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f624.png",
+        "text": "出气"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f625.png",
+        "text": "冷汗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f629.png",
+        "text": "疲惫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f62b.png",
+        "text": "累"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f62e.png",
+        "text": "惊讶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f630.png",
+        "text": "紧张"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f632.png",
+        "text": "震惊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f634.png",
+        "text": "睡觉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f637.png",
+        "text": "口罩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f642.png",
+        "text": "呵呵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f643.png",
+        "text": "倒脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f910.png",
+        "text": "闭嘴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f911.png",
+        "text": "发财"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f925.png",
+        "text": "说谎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f44d.png",
+        "text": "点赞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f44e.png",
+        "text": "踩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f44c.png",
+        "text": "OK"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f44f.png",
+        "text": "鼓掌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f4aa.png",
+        "text": "肌肉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f91d.png",
+        "text": "握手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f91e.png",
+        "text": "交叉手指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/270b.png",
+        "text": "举手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/270c.png",
+        "text": "胜利"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f44b.png",
+        "text": "挥手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f64f.png",
+        "text": "合十"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f44a.png",
+        "text": "拳头"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/270a.png",
+        "text": "加油"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f91f.png",
+        "text": "爱你"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f918.png",
+        "text": "摇滚"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f919.png",
+        "text": "打电话"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f446.png",
+        "text": "上指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f447.png",
+        "text": "下指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f448.png",
+        "text": "左指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f449.png",
+        "text": "右指"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f440.png",
+        "text": "眼睛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f442.png",
+        "text": "耳朵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f443.png",
+        "text": "鼻子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f444.png",
+        "text": "嘴巴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f464.png",
+        "text": "人像"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2764.png",
+        "text": "红心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f9e1.png",
+        "text": "橙心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f499.png",
+        "text": "蓝心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f49c.png",
+        "text": "紫心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f49a.png",
+        "text": "绿心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f5a4.png",
+        "text": "黑心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f494.png",
+        "text": "心碎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f493.png",
+        "text": "跳动的心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f498.png",
+        "text": "爱心发射"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f4af.png",
+        "text": "100分"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2757.png",
+        "text": "感叹号"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2753.png",
+        "text": "问号"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/274c.png",
+        "text": "叉号"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2705.png",
+        "text": "对勾"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f525.png",
+        "text": "火"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2b50.png",
+        "text": "星星"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f31f.png",
+        "text": "流星"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f389.png",
+        "text": "礼花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f388.png",
+        "text": "气球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f381.png",
+        "text": "礼物"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2615.png",
+        "text": "咖啡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f375.png",
+        "text": "茶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f37a.png",
+        "text": "啤酒"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f37b.png",
+        "text": "干杯"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f355.png",
+        "text": "披萨"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f354.png",
+        "text": "汉堡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f363.png",
+        "text": "寿司"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f35c.png",
+        "text": "拉面"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f366.png",
+        "text": "冰淇淋"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f370.png",
+        "text": "蛋糕"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f36b.png",
+        "text": "巧克力"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f34e.png",
+        "text": "苹果"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f347.png",
+        "text": "葡萄"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f353.png",
+        "text": "草莓"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f349.png",
+        "text": "西瓜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f436.png",
+        "text": "狗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f431.png",
+        "text": "猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f42d.png",
+        "text": "老鼠"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f430.png",
+        "text": "兔子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f98a.png",
+        "text": "狐狸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f43b.png",
+        "text": "熊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f428.png",
+        "text": "考拉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f42f.png",
+        "text": "老虎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f981.png",
+        "text": "狮子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f42e.png",
+        "text": "牛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f437.png",
+        "text": "猪"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f438.png",
+        "text": "青蛙"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f435.png",
+        "text": "猴子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f414.png",
+        "text": "鸡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f427.png",
+        "text": "企鹅"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2600.png",
+        "text": "太阳"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f319.png",
+        "text": "月亮"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/26c5.png",
+        "text": "多云"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f308.png",
+        "text": "彩虹"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2614.png",
+        "text": "雨伞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2744.png",
+        "text": "雪花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f30a.png",
+        "text": "波浪"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f339.png",
+        "text": "玫瑰"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f33b.png",
+        "text": "向日葵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f332.png",
+        "text": "树"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f4b0.png",
+        "text": "钱袋"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f4b3.png",
+        "text": "信用卡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f4bb.png",
+        "text": "电脑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f4f1.png",
+        "text": "手机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f3ae.png",
+        "text": "游戏手柄"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f4da.png",
+        "text": "书"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f3b5.png",
+        "text": "音乐"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f3a7.png",
+        "text": "耳机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f4f7.png",
+        "text": "相机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f3ac.png",
+        "text": "电影"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/26bd.png",
+        "text": "足球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f3c0.png",
+        "text": "篮球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f3ce.png",
+        "text": "赛车"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/2708.png",
+        "text": "飞机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f680.png",
+        "text": "火箭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f466.png",
+        "text": "男孩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f467.png",
+        "text": "女孩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f468.png",
+        "text": "男人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f469.png",
+        "text": "女人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f476.png",
+        "text": "婴儿"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f474.png",
+        "text": "老人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f475.png",
+        "text": "老妇"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f47c.png",
+        "text": "天使"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f47b.png",
+        "text": "鬼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f385.png",
+        "text": "圣诞老人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f483.png",
+        "text": "跳舞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f57a.png",
+        "text": "舞者"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f46b.png",
+        "text": "情侣"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f46a.png",
+        "text": "家庭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f3c6.png",
+        "text": "奖杯"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f3c5.png",
+        "text": "奖牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f947.png",
+        "text": "金牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f948.png",
+        "text": "银牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f949.png",
+        "text": "铜牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/twemoji/1f451.png",
+        "text": "皇冠"
+      }
+    ]
+  },
+  "Fluent": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/grinning_face_3d.png",
+        "text": "微笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/face_with_tears_of_joy_3d.png",
+        "text": "笑哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/smiling_face_with_smiling_eyes_3d.png",
+        "text": "害羞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/smiling_face_with_heart-eyes_3d.png",
+        "text": "花痴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/smirking_face_3d.png",
+        "text": "酷"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/pensive_face_3d.png",
+        "text": "难过"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/face_blowing_a_kiss_3d.png",
+        "text": "飞吻"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/disappointed_face_3d.png",
+        "text": "失望"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/angry_face_3d.png",
+        "text": "生气"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/crying_face_3d.png",
+        "text": "哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/loudly_crying_face_3d.png",
+        "text": "大哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/face_screaming_in_fear_3d.png",
+        "text": "尖叫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/thinking_face_3d.png",
+        "text": "思考"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/rolling_on_the_floor_laughing_3d.png",
+        "text": "笑到打滚"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/face_with_raised_eyebrow_3d.png",
+        "text": "扶额"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/shushing_face_3d.png",
+        "text": "捂脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/partying_face_3d.png",
+        "text": "派对脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/woozy_face_3d.png",
+        "text": "头晕"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/face_with_rolling_eyes_3d.png",
+        "text": "翻白眼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/see-no-evil_monkey_3d.png",
+        "text": "不看"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/face_savoring_food_3d.png",
+        "text": "美味"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/smiling_face_with_sunglasses_3d.png",
+        "text": "墨镜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/winking_face_3d.png",
+        "text": "眨眼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/relieved_face_3d.png",
+        "text": "安心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/squinting_face_with_tongue_3d.png",
+        "text": "吐舌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/pouting_face_3d.png",
+        "text": "红脸生气"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/face_with_steam_from_nose_3d.png",
+        "text": "出气"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/sad_but_relieved_face_3d.png",
+        "text": "冷汗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/weary_face_3d.png",
+        "text": "疲惫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/tired_face_3d.png",
+        "text": "累"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/face_with_open_mouth_3d.png",
+        "text": "惊讶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/anxious_face_with_sweat_3d.png",
+        "text": "紧张"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/astonished_face_3d.png",
+        "text": "震惊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/sleeping_face_3d.png",
+        "text": "睡觉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/face_with_medical_mask_3d.png",
+        "text": "口罩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/slightly_smiling_face_3d.png",
+        "text": "呵呵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/upside-down_face_3d.png",
+        "text": "倒脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/zipper-mouth_face_3d.png",
+        "text": "闭嘴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/money-mouth_face_3d.png",
+        "text": "发财"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/lying_face_3d.png",
+        "text": "说谎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/handshake_3d.png",
+        "text": "握手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/eyes_3d.png",
+        "text": "眼睛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/mouth_3d.png",
+        "text": "嘴巴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/bust_in_silhouette_3d.png",
+        "text": "人像"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/red_heart_3d.png",
+        "text": "红心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/orange_heart_3d.png",
+        "text": "橙心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/blue_heart_3d.png",
+        "text": "蓝心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/purple_heart_3d.png",
+        "text": "紫心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/green_heart_3d.png",
+        "text": "绿心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/black_heart_3d.png",
+        "text": "黑心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/broken_heart_3d.png",
+        "text": "心碎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/beating_heart_3d.png",
+        "text": "跳动的心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/heart_with_arrow_3d.png",
+        "text": "爱心发射"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/hundred_points_3d.png",
+        "text": "100分"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/cross_mark_3d.png",
+        "text": "叉号"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/check_mark_button_3d.png",
+        "text": "对勾"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/fire_3d.png",
+        "text": "火"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/star_3d.png",
+        "text": "星星"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/glowing_star_3d.png",
+        "text": "流星"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/party_popper_3d.png",
+        "text": "礼花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/balloon_3d.png",
+        "text": "气球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/wrapped_gift_3d.png",
+        "text": "礼物"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/hot_beverage_3d.png",
+        "text": "咖啡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/teacup_without_handle_3d.png",
+        "text": "茶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/beer_mug_3d.png",
+        "text": "啤酒"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/clinking_beer_mugs_3d.png",
+        "text": "干杯"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/pizza_3d.png",
+        "text": "披萨"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/hamburger_3d.png",
+        "text": "汉堡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/sushi_3d.png",
+        "text": "寿司"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/steaming_bowl_3d.png",
+        "text": "拉面"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/soft_ice_cream_3d.png",
+        "text": "冰淇淋"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/shortcake_3d.png",
+        "text": "蛋糕"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/chocolate_bar_3d.png",
+        "text": "巧克力"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/red_apple_3d.png",
+        "text": "苹果"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/grapes_3d.png",
+        "text": "葡萄"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/strawberry_3d.png",
+        "text": "草莓"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/watermelon_3d.png",
+        "text": "西瓜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/dog_face_3d.png",
+        "text": "狗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/cat_face_3d.png",
+        "text": "猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/mouse_face_3d.png",
+        "text": "老鼠"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/rabbit_face_3d.png",
+        "text": "兔子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/fox_3d.png",
+        "text": "狐狸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/bear_3d.png",
+        "text": "熊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/koala_3d.png",
+        "text": "考拉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/tiger_face_3d.png",
+        "text": "老虎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/lion_3d.png",
+        "text": "狮子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/cow_face_3d.png",
+        "text": "牛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/pig_face_3d.png",
+        "text": "猪"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/frog_3d.png",
+        "text": "青蛙"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/monkey_face_3d.png",
+        "text": "猴子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/chicken_3d.png",
+        "text": "鸡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/penguin_3d.png",
+        "text": "企鹅"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/sun_3d.png",
+        "text": "太阳"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/crescent_moon_3d.png",
+        "text": "月亮"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/sun_behind_cloud_3d.png",
+        "text": "多云"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/rainbow_3d.png",
+        "text": "彩虹"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/umbrella_with_rain_drops_3d.png",
+        "text": "雨伞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/snowflake_3d.png",
+        "text": "雪花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/water_wave_3d.png",
+        "text": "波浪"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/rose_3d.png",
+        "text": "玫瑰"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/sunflower_3d.png",
+        "text": "向日葵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/evergreen_tree_3d.png",
+        "text": "树"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/money_bag_3d.png",
+        "text": "钱袋"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/credit_card_3d.png",
+        "text": "信用卡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/laptop_3d.png",
+        "text": "电脑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/mobile_phone_3d.png",
+        "text": "手机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/video_game_3d.png",
+        "text": "游戏手柄"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/books_3d.png",
+        "text": "书"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/musical_note_3d.png",
+        "text": "音乐"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/headphone_3d.png",
+        "text": "耳机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/camera_3d.png",
+        "text": "相机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/clapper_board_3d.png",
+        "text": "电影"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/soccer_ball_3d.png",
+        "text": "足球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/basketball_3d.png",
+        "text": "篮球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/racing_car_3d.png",
+        "text": "赛车"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/airplane_3d.png",
+        "text": "飞机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/rocket_3d.png",
+        "text": "火箭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/ghost_3d.png",
+        "text": "鬼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/trophy_3d.png",
+        "text": "奖杯"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/sports_medal_3d.png",
+        "text": "奖牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/1st_place_medal_3d.png",
+        "text": "金牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/2nd_place_medal_3d.png",
+        "text": "银牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/3rd_place_medal_3d.png",
+        "text": "铜牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/fluent/crown_3d.png",
+        "text": "皇冠"
+      }
+    ]
+  },
+  "Heo": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/3d眼镜.png",
+        "text": "3d眼镜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/EDG.png",
+        "text": "EDG"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/LPL.png",
+        "text": "LPL"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/beluga.png",
+        "text": "beluga"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/不好意思.png",
+        "text": "不好意思"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/不服吗.png",
+        "text": "不服吗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/亲亲.png",
+        "text": "亲亲"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/伞兵.png",
+        "text": "伞兵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/倚墙笑.png",
+        "text": "倚墙笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/值得肯定.png",
+        "text": "值得肯定"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/偷偷看.png",
+        "text": "偷偷看"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/傻笑.png",
+        "text": "傻笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/再见.png",
+        "text": "再见"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/出家人.png",
+        "text": "出家人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/击剑.png",
+        "text": "击剑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/加班.png",
+        "text": "加班"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/勉强笑.png",
+        "text": "勉强笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/危险.png",
+        "text": "危险"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/发红包.png",
+        "text": "发红包"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/吃手.png",
+        "text": "吃手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/吃瓜.png",
+        "text": "吃瓜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/吐血.png",
+        "text": "吐血"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/吵架.png",
+        "text": "吵架"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/呦吼.png",
+        "text": "呦吼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/呲牙笑.png",
+        "text": "呲牙笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/哈士奇.png",
+        "text": "哈士奇"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/哈士奇失去意识.png",
+        "text": "哈士奇失去意识"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/哈士奇失望.png",
+        "text": "哈士奇失望"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/哭泣.png",
+        "text": "哭泣"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/唱歌.png",
+        "text": "唱歌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/喜欢.png",
+        "text": "喜欢"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/嘿哈.png",
+        "text": "嘿哈"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/大笑.png",
+        "text": "大笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/失去信号.png",
+        "text": "失去信号"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/失望.png",
+        "text": "失望"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/头秃.png",
+        "text": "头秃"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/奋斗.png",
+        "text": "奋斗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/好奇.png",
+        "text": "好奇"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/好的.png",
+        "text": "好的"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/害羞.png",
+        "text": "害羞"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/小丑.png",
+        "text": "小丑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/小偷.png",
+        "text": "小偷"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/尬笑.png",
+        "text": "尬笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/尴尬.png",
+        "text": "尴尬"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/应援.png",
+        "text": "应援"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/开心.png",
+        "text": "开心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/引起不适.png",
+        "text": "引起不适"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/微笑.png",
+        "text": "微笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/思考.png",
+        "text": "思考"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/恶心.png",
+        "text": "恶心"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/恶魔.png",
+        "text": "恶魔"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/恶魔恐惧.png",
+        "text": "恶魔恐惧"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/惊吓.png",
+        "text": "惊吓"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/惊吓白眼.png",
+        "text": "惊吓白眼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/惊讶.png",
+        "text": "惊讶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/惬意.png",
+        "text": "惬意"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/感动.png",
+        "text": "感动"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/愤怒.png",
+        "text": "愤怒"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/我看好你.png",
+        "text": "我看好你"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/手机相机.png",
+        "text": "手机相机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/打咩.png",
+        "text": "打咩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/打牌.png",
+        "text": "打牌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/托腮.png",
+        "text": "托腮"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/扶额.png",
+        "text": "扶额"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/抠鼻.png",
+        "text": "抠鼻"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/抬眼镜.png",
+        "text": "抬眼镜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/拜托.png",
+        "text": "拜托"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/捂嘴笑.png",
+        "text": "捂嘴笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/捂脸.png",
+        "text": "捂脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/擦汗.png",
+        "text": "擦汗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/放鞭炮.png",
+        "text": "放鞭炮"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/敬礼.png",
+        "text": "敬礼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/整理发型.png",
+        "text": "整理发型"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/斗鸡眼.png",
+        "text": "斗鸡眼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/智慧的眼神.png",
+        "text": "智慧的眼神"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/月饼.png",
+        "text": "月饼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/有没有搞错.png",
+        "text": "有没有搞错"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/正确.png",
+        "text": "正确"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/没招.png",
+        "text": "没招"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/波吉.png",
+        "text": "波吉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/泪奔.png",
+        "text": "泪奔"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/流汗微笑.png",
+        "text": "流汗微笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/流鼻涕.png",
+        "text": "流鼻涕"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/深思.png",
+        "text": "深思"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/滑稽.png",
+        "text": "滑稽"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/滑稽吃瓜.png",
+        "text": "滑稽吃瓜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/滑稽喝水.png",
+        "text": "滑稽喝水"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/滑稽奶茶.png",
+        "text": "滑稽奶茶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/滑稽柠檬.png",
+        "text": "滑稽柠檬"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/滑稽狂汗.png",
+        "text": "滑稽狂汗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/滑稽被子.png",
+        "text": "滑稽被子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/烦恼.png",
+        "text": "烦恼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/熊熊.png",
+        "text": "熊熊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/熊猫.png",
+        "text": "熊猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/熊猫唱歌.png",
+        "text": "熊猫唱歌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/熊猫喜欢.png",
+        "text": "熊猫喜欢"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/熊猫失望.png",
+        "text": "熊猫失望"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/熊猫意外.png",
+        "text": "熊猫意外"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/熬夜.png",
+        "text": "熬夜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/爆炸.png",
+        "text": "爆炸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/牛年进宝.png",
+        "text": "牛年进宝"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/狂热.png",
+        "text": "狂热"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/狗头.png",
+        "text": "狗头"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/狗头围脖.png",
+        "text": "狗头围脖"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/狗头失望.png",
+        "text": "狗头失望"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/狗头意外.png",
+        "text": "狗头意外"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/狗头胖次.png",
+        "text": "狗头胖次"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/狗头花.png",
+        "text": "狗头花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/狗头草.png",
+        "text": "狗头草"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/猪头.png",
+        "text": "猪头"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/猪头意外.png",
+        "text": "猪头意外"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/生病.png",
+        "text": "生病"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/电话.png",
+        "text": "电话"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/疑问.png",
+        "text": "疑问"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/疼痛.png",
+        "text": "疼痛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/痛哭.png",
+        "text": "痛哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/看穿一切.png",
+        "text": "看穿一切"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/眩晕.png",
+        "text": "眩晕"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/睡觉.png",
+        "text": "睡觉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/禁言.png",
+        "text": "禁言"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/笑哭.png",
+        "text": "笑哭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/纠结.png",
+        "text": "纠结"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/绿帽.png",
+        "text": "绿帽"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/缺牙笑.png",
+        "text": "缺牙笑"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/翻白眼.png",
+        "text": "翻白眼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/老虎意外.png",
+        "text": "老虎意外"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/耍酷.png",
+        "text": "耍酷"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/胡子.png",
+        "text": "胡子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/菜狗.png",
+        "text": "菜狗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/菜狗花.png",
+        "text": "菜狗花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/蒙面滑稽.png",
+        "text": "蒙面滑稽"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/虎年进宝.png",
+        "text": "虎年进宝"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/被打.png",
+        "text": "被打"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/裂开.png",
+        "text": "裂开"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/警告.png",
+        "text": "警告"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/读书.png",
+        "text": "读书"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/财神红包.png",
+        "text": "财神红包"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/超爱.png",
+        "text": "超爱"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/这是啥.png",
+        "text": "这是啥"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/送福.png",
+        "text": "送福"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/送花.png",
+        "text": "送花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/错误.png",
+        "text": "错误"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/阴险.png",
+        "text": "阴险"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/难以置信.png",
+        "text": "难以置信"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/面具.png",
+        "text": "面具"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/饥渴.png",
+        "text": "饥渴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/鬼脸.png",
+        "text": "鬼脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/黑线.png",
+        "text": "黑线"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/heo/鼓掌.png",
+        "text": "鼓掌"
+      }
+    ]
+  },
+  "Blob": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f192.png",
+        "text": "新"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f197.png",
+        "text": "OK"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f199.png",
+        "text": "升级"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f21a.png",
+        "text": "免费"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f22f.png",
+        "text": "预留"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f233.png",
+        "text": "空位"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f234.png",
+        "text": "合格"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f235.png",
+        "text": "满员"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f236.png",
+        "text": "付费"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f237.png",
+        "text": "月租"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f23a.png",
+        "text": "营业中"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f250.png",
+        "text": "优惠"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f251.png",
+        "text": "接受"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f31e.png",
+        "text": "太阳脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f324.png",
+        "text": "晴转多云"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f325.png",
+        "text": "阴天"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f326.png",
+        "text": "阵雨"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f327.png",
+        "text": "雷雨"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f328.png",
+        "text": "雪天"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f329.png",
+        "text": "龙卷风"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f32e.png",
+        "text": "玉米饼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f32f.png",
+        "text": "墨西哥卷"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f330.png",
+        "text": "栗子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f331.png",
+        "text": "幼苗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f332.png",
+        "text": "常青树"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f333.png",
+        "text": "落叶树"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f334.png",
+        "text": "棕榈树"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f335.png",
+        "text": "仙人掌"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f336.png",
+        "text": "辣椒"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f337.png",
+        "text": "郁金香"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f338.png",
+        "text": "樱花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f339.png",
+        "text": "玫瑰"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f33b.png",
+        "text": "向日葵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f33d.png",
+        "text": "玉米"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f33e.png",
+        "text": "稻穗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f340.png",
+        "text": "四叶草"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f341.png",
+        "text": "枫叶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f342.png",
+        "text": "落叶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f343.png",
+        "text": "飘叶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f344.png",
+        "text": "蘑菇"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f345.png",
+        "text": "番茄"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f346.png",
+        "text": "茄子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f347.png",
+        "text": "葡萄"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f348.png",
+        "text": "西瓜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f349.png",
+        "text": "甜瓜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f34a.png",
+        "text": "橘子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f34b.png",
+        "text": "柠檬"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f34c.png",
+        "text": "香蕉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f34d.png",
+        "text": "菠萝"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f34e.png",
+        "text": "红苹果"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f34f.png",
+        "text": "青苹果"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f350.png",
+        "text": "梨"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f351.png",
+        "text": "桃子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f352.png",
+        "text": "樱桃"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f353.png",
+        "text": "草莓"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f354.png",
+        "text": "汉堡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f355.png",
+        "text": "披萨"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f356.png",
+        "text": "排骨"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f357.png",
+        "text": "鸡腿"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f358.png",
+        "text": "米饼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f359.png",
+        "text": "饭团"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f35c.png",
+        "text": "拉面"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f35d.png",
+        "text": "意面"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f35f.png",
+        "text": "薯条"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f360.png",
+        "text": "烤红薯"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f361.png",
+        "text": "团子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f362.png",
+        "text": "关东煮"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f363.png",
+        "text": "寿司"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f364.png",
+        "text": "炸虾"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f365.png",
+        "text": "鱼板"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f366.png",
+        "text": "冰淇淋"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f367.png",
+        "text": "刨冰"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f368.png",
+        "text": "雪糕"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f369.png",
+        "text": "甜甜圈"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f36a.png",
+        "text": "饼干"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f36b.png",
+        "text": "巧克力"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f36c.png",
+        "text": "糖果"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f36d.png",
+        "text": "棒棒糖"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f37b.png",
+        "text": "干杯"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f390.png",
+        "text": "风铃"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f3c3_1f3fb.png",
+        "text": "跑步"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f3c7.png",
+        "text": "赛马"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f3d3.png",
+        "text": "乒乓球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f3d9.png",
+        "text": "城市"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f3ee.png",
+        "text": "灯笼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f3f9.png",
+        "text": "弓箭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f3fa.png",
+        "text": "陶罐"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f400.png",
+        "text": "老鼠"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f401.png",
+        "text": "小鼠"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f402.png",
+        "text": "牛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f403.png",
+        "text": "水牛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f404.png",
+        "text": "奶牛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f405.png",
+        "text": "老虎"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f406.png",
+        "text": "豹子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f407.png",
+        "text": "兔子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f408.png",
+        "text": "猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f408_200d_2b1b.png",
+        "text": "猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f409.png",
+        "text": "龙"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f40a.png",
+        "text": "鳄鱼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f40b.png",
+        "text": "鲸鱼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f40d.png",
+        "text": "蛇"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f40e.png",
+        "text": "马"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f40f.png",
+        "text": "公羊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f410.png",
+        "text": "山羊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f411.png",
+        "text": "绵羊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f412.png",
+        "text": "猴子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f413.png",
+        "text": "公鸡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f414.png",
+        "text": "鸡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f415.png",
+        "text": "狗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f415_200d_1f9ba.png",
+        "text": "狗"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f416.png",
+        "text": "猪"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f417.png",
+        "text": "野猪"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f418.png",
+        "text": "大象"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f419.png",
+        "text": "章鱼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f41a.png",
+        "text": "海螺"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f41b.png",
+        "text": "虫子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f41c.png",
+        "text": "蚂蚁"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f41d.png",
+        "text": "蜜蜂"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f41e.png",
+        "text": "瓢虫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f41f.png",
+        "text": "鱼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f420.png",
+        "text": "热带鱼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f421.png",
+        "text": "河豚"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f422.png",
+        "text": "乌龟"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f423.png",
+        "text": "破壳小鸡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f424.png",
+        "text": "小鸡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f425.png",
+        "text": "正面小鸡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f426.png",
+        "text": "鸟"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f427.png",
+        "text": "企鹅"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f428.png",
+        "text": "考拉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f429.png",
+        "text": "贵宾犬"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f42a.png",
+        "text": "单峰骆驼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f42b.png",
+        "text": "双峰骆驼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f42c.png",
+        "text": "海豚"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f42d.png",
+        "text": "鼠脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f42e.png",
+        "text": "牛脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f42f.png",
+        "text": "虎脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f430.png",
+        "text": "兔脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f431.png",
+        "text": "猫脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f431_1f3fb.png",
+        "text": "猫脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f431_1f3fc.png",
+        "text": "猫脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f431_1f3fd.png",
+        "text": "猫脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f431_1f3fe.png",
+        "text": "猫脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f431_1f3ff.png",
+        "text": "猫脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f432.png",
+        "text": "龙脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f434.png",
+        "text": "马脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f435.png",
+        "text": "猴脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f436.png",
+        "text": "狗脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f437.png",
+        "text": "猪脸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f438.png",
+        "text": "青蛙"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f439.png",
+        "text": "仓鼠"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f43a.png",
+        "text": "狼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f43b.png",
+        "text": "熊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f43c.png",
+        "text": "熊猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f43f.png",
+        "text": "花栗鼠"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f4af.png",
+        "text": "满分"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f4b0.png",
+        "text": "钱袋"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f4cf.png",
+        "text": "直尺"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f4d0.png",
+        "text": "三角尺"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f4e7.png",
+        "text": "邮件"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f520.png",
+        "text": "大写字母"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f521.png",
+        "text": "小写字母"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f522.png",
+        "text": "数字"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f523.png",
+        "text": "符号"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f54a.png",
+        "text": "和平鸽"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f5fa.png",
+        "text": "世界地图"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f638.png",
+        "text": "笑猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f639.png",
+        "text": "笑哭猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f63a.png",
+        "text": "开心猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f63b.png",
+        "text": "花痴猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f63c.png",
+        "text": "坏笑猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f63d.png",
+        "text": "亲亲猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f63e.png",
+        "text": "生气猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f63f.png",
+        "text": "哭泣猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f640.png",
+        "text": "疲惫猫"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f645_1f3fb_200d_2640.png",
+        "text": "拒绝"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f645_1f3fb_200d_2642.png",
+        "text": "拒绝"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f648.png",
+        "text": "不看"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f649.png",
+        "text": "不听"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f64a.png",
+        "text": "不说"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f64b_1f3fb_200d_2640.png",
+        "text": "举手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f64b_1f3fb_200d_2642.png",
+        "text": "举手"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f685.png",
+        "text": "高铁"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f689.png",
+        "text": "车站"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f6b4_1f3fb_200d_2640.png",
+        "text": "骑车"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f6b6.png",
+        "text": "行人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f6dd.png",
+        "text": "滑梯"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f6e5.png",
+        "text": "快艇"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f6e9.png",
+        "text": "小飞机"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f6f0.png",
+        "text": "卫星"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f6f3.png",
+        "text": "客轮"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f916.png",
+        "text": "机器人"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f926_200d_2642.png",
+        "text": "扶额"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f950.png",
+        "text": "牛角包"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f951.png",
+        "text": "牛油果"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f954.png",
+        "text": "土豆"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f955.png",
+        "text": "胡萝卜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f957.png",
+        "text": "沙拉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f958.png",
+        "text": "平底锅"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f95d.png",
+        "text": "猕猴桃"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f965.png",
+        "text": "椰子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f966.png",
+        "text": "西兰花"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f96c.png",
+        "text": "绿叶菜"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f96d.png",
+        "text": "芒果"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f976.png",
+        "text": "冻僵"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f97e.png",
+        "text": "登山靴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f980.png",
+        "text": "螃蟹"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f981.png",
+        "text": "狮子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f982.png",
+        "text": "蝎子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f983.png",
+        "text": "火鸡"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f986.png",
+        "text": "鸭子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f988.png",
+        "text": "鲨鱼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f989.png",
+        "text": "猫头鹰"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f98a.png",
+        "text": "狐狸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f98b.png",
+        "text": "蝴蝶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f98c.png",
+        "text": "鹿"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f98d.png",
+        "text": "大猩猩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f98e.png",
+        "text": "蜥蜴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f98f.png",
+        "text": "犀牛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f990.png",
+        "text": "虾"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f992.png",
+        "text": "长颈鹿"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f993.png",
+        "text": "斑马"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f994.png",
+        "text": "刺猬"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f996.png",
+        "text": "霸王龙"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f997.png",
+        "text": "蟋蟀"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f998.png",
+        "text": "袋鼠"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f999.png",
+        "text": "羊驼"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f99a.png",
+        "text": "孔雀"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f99b.png",
+        "text": "河马"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f99c.png",
+        "text": "鹦鹉"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f99d.png",
+        "text": "浣熊"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f99e.png",
+        "text": "龙虾"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9a2.png",
+        "text": "天鹅"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9a3.png",
+        "text": "猛犸象"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9a4.png",
+        "text": "渡渡鸟"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9a5.png",
+        "text": "树懒"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9a6.png",
+        "text": "水獭"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9a7.png",
+        "text": "猩猩"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9a8.png",
+        "text": "臭鼬"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9a9.png",
+        "text": "火烈鸟"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9ab.png",
+        "text": "海狸"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9ac.png",
+        "text": "野牛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9ae.png",
+        "text": "导盲犬"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9c0.png",
+        "text": "奶酪"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9cb.png",
+        "text": "珍珠奶茶"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1f9e5.png",
+        "text": "外套"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1fa73.png",
+        "text": "短裤"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1fa9c.png",
+        "text": "梯子"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1fab6.png",
+        "text": "羽毛"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1fabf.png",
+        "text": "鹅"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1facf.png",
+        "text": "驴"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1fad0.png",
+        "text": "蓝莓"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u1fad1.png",
+        "text": "青椒"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u2618.png",
+        "text": "三叶草"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u262f.png",
+        "text": "太极"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u26bd.png",
+        "text": "足球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u26bd_200d_1f308.png",
+        "text": "足球"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/gh/pusuxing/pusuxing@main/blob/emoji_u26c4.png",
+        "text": "雪人"
+      }
+    ]
+  }
+}
